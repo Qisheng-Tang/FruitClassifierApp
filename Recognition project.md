@@ -1,4 +1,4 @@
-##Fruit Identification
+## Fruit Identification
 
 
 **Description：**
@@ -25,7 +25,7 @@ b.Create our own dataset;
 
 
 
-######3.  Train our coreML dataset;
+###### 3.  Train our coreML dataset;
 
 ![the model we have finished training](/Users/mac/Desktop/Screen Shot 2019-05-03 at 10.24.17.png)
 
@@ -95,7 +95,7 @@ data.save("fruit.sframe")
 
 
 
-######4.Test our model and export to CoreML model;
+###### 4.Test our model and export to CoreML model;
 ![Test Model](https://raw.githubusercontent.com/LuckyStarRain/OwnDataset_TuriCreate/master/Screen%20Shot%202019-05-03%20at%2010.24.17.png)
 ######5.The following are some part of our view controller source code:
 ```
