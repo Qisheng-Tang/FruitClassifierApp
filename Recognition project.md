@@ -5,7 +5,7 @@
 
 Different countries have their own specialty fruits. With various technology development, there are more and more novel fruits in our world. We design a project which can recognize almost all kinds of fruits from all over the world based on deep learning method. If one user taste uncommon fruits which he doesn’t know the name when he is traveling, he can use this app to know which kind of fruit they are by just uploading the photo of this kind of fruits to the app.
 
-####Project process:
+#### Project process:
 
 ***Getting Started:***
 
@@ -97,7 +97,7 @@ data.save("fruit.sframe")
 
 ###### 4.Test our model and export to CoreML model;
 ![Test Model](https://raw.githubusercontent.com/LuckyStarRain/OwnDataset_TuriCreate/master/Screen%20Shot%202019-05-03%20at%2010.24.17.png)
-######5.The following are some part of our view controller source code:
+###### 5.The following are some part of our view controller source code:
 ```
 
 
