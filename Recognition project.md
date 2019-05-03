@@ -96,7 +96,7 @@ data.save("fruit.sframe")
 
 
 ######4.Test our model and export to CoreML model;
-
+![Test Model](https://raw.githubusercontent.com/LuckyStarRain/OwnDataset_TuriCreate/master/Screen%20Shot%202019-05-03%20at%2010.24.17.png)
 ######5.The following are some part of our view controller source code:
 ```
 
