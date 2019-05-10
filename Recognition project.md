@@ -154,4 +154,4 @@ Our app can recognize diverse kinds of fruits close to 100% correctly.
 The problem we met was the format of images can’t match the requirement of application.
 
 ***The solution to the problem:***
-Change some formats of pictures to jpeg or PNG.
+Change some formats of pictures to jpeg or PNG .
