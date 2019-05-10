@@ -12,11 +12,11 @@ Different countries have their own specialty fruits. With various technology dev
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ***Create The coreML Model:***
-######1.preparation:
+###### 1.preparation:
 a.Install Turi Create in our computer;
 
 b.Create our own dataset;
-######2. Collect the dataset:
+###### 2. Collect the dataset:
 
 	We gain our fruits dataset from the websites, here is the link:
 	(http://yangxian10.github.io/2015/11/05/dataset-cv/)
